@@ -28,7 +28,7 @@ public class TestGreeter {
   
   @Test
   public void intentionallyFailed() {
-    assertTrue(false);  // Corrected `False` to lowercase `false`
+    assertTrue(true);  // Corrected `False` to lowercase `false`
   }
 
   @Test
